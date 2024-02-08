@@ -6,9 +6,9 @@ import time
 # Параметры подключения к серверу
 smtp_server = "smtp.gmail.com"  # Адрес SMTP сервера
 smtp_port = 587                   # Порт, использующийся для TLS/STARTTLS
-sender_email = 'roma.axe.99@gmail.com'  # Адрес отправителя
-receiver_email = 'origino@bk.ru'  # Адрес получателя
-password = 'zgsteotlcaktbknb'             # Пароль отправителя
+sender_email = 'your mail'  # Адрес отправителя
+receiver_email = 'receiver main'  # Адрес получателя
+password = 'password'             # Пароль отправителя
 
 # Текст сообщения
 message = f"""\
